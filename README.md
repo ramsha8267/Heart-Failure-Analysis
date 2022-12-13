@@ -18,12 +18,12 @@ Dataset has been downloaded from Kaggle and it can be found in Data folder in my
 
 # Cardiovascular Diseases
 
-  Cardiovascular diseases kill approximately 17 million people globally every year and they mainly exhibit as myocardial infarctions and heart failures. Heart failure   (HF) occurs when the heart cannot pump enough blood to meet the needs of the body.This dataset contains 13 features, which reports clinical, body and lifestyle         information of a patient namely Age, Anaemia, High Blood Pressure, Creatinine Phosphokinase (CPK), Diabetes, Ejection Fraction, Sex, Platelets, Serum Creatinine,       Serum Sodium, Smoking Habit etc.
+  Cardiovascular diseases kill approximately 17 million people globally every year and they mainly exhibit as myocardial infarctions and heart failures. Heart failure   (HF) occurs when the heart cannot pump enough blood to meet the needs of the body.This dataset contains 13 features, which reports clinical, body and lifestyle information of a patient namely Age, Anaemia, High Blood Pressure, Creatinine Phosphokinase (CPK), Diabetes, Ejection Fraction, Sex, Platelets, Serum Creatinine,Serum Sodium, Smoking Habit etc.
   
-  ## <p align="center"><img src="https://www.pulse-cardiology.com/wp-content/uploads/2020/07/HD.jpeg" width="400" ></p> 
+  
 
 ## Analysis
-    O How many numbers of patients are there in our observation? Out of them how many male and female     patients are there?
+    O How many numbers of patients are there in our observation? Out of them how many male and female patients are there?
 
 
     O What is the normal level of Ejection Fraction? How many patients had abnormal Ejection Fraction?
